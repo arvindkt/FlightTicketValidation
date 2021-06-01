@@ -1,0 +1,6 @@
+First_name,Last_name,PNR,Fare_class,Travel_date,Pax,Ticketing_date,Email,Mobile_phone,Booked_cabin,Error
+Monin,Sankar,PQ234,C,2019-08-30,2,2019-05-22,monin@zzz.com,9876543211,Economy,Invalid PNR Number
+Radhika,Suresh,ZZZ345,T,2019-05-31,4,2019-05-21,radhika@zzz,9876543212,Business,Invalid Email
+Kalyani,Ben,A1B2C3,M,2019-04-30,1,2019-05-21,kben@zzz.com,9876543213,Premium Economy,Invalid Travel Date
+Ashok,Kumar,ABC323,A,2021-03-26,2,2021-05-23,ashok.kumar@gmail.com,9767562112,Premium Economy,Invalid Travel Date
+Jaya,Kumar,PSR111,T,2019-03-31,4,2019-01-21,jaya@zzz.org,97865436212,Other,Invalid Mobile No
